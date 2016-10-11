@@ -1,6 +1,6 @@
 {
     "name": "express-brute",
-    "version": "1.0.0",
+    "version": "1.0.1-sp",
     "description": "A brute-force protection middleware for express routes that rate limits incoming requests",
     "keywords": [
         "brute",
